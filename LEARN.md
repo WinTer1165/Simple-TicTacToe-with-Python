@@ -1,4 +1,4 @@
-##Your assignment: Create a Tic Tac Toe game. You are free to use any IDE you like.
+#Your assignment: Create a Tic Tac Toe game. You are free to use any IDE you like.
 
 Here are the requirements:
 ```
