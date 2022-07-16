@@ -1,2 +1,3 @@
 # Simple-TicTacToe-with-Python
-It's a simple tictactoe game with python fundamentals. 
+
+## I am enrolled in a [python course of udemy](https://www.udemy.com/course/complete-python-bootcamp/)
